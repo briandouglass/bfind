@@ -1,8 +1,8 @@
 
-## bfind
+bfind
 Written by Brian Douglass
 
-# A multithreaded implementation of the UNIX find command written in Rust
+A multithreaded implementation of the UNIX find command written in Rust
 
 To run this program, you must have Rust installed.
 To compile, run
