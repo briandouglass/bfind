@@ -1,0 +1,14 @@
+
+## bfind
+Written by Brian Douglass
+
+# A multithreaded implementation of the UNIX find command written in Rust
+
+To run this program, you must have Rust installed.
+To compile, run
+
+$ cargo build --release
+
+Then to actually run the program navigate to <PATH_TO_bfind>/target/release
+$ ./bfind <starting directory> <target filename> <nThreads>
+All of the above arguments are required.
